@@ -1,3 +1,5 @@
 # Descuentos
 Este programa permite elegir al usuario las cantidades de tres productos diferentes, añadiendolos a un carrito de compra, una vez se han elegido los productos se le pregunta al usuario la fecha de ancimiento y el día en el que está haciendo la compra. Dependiendo de la edad del usuario y cuanto queda para su cumpleaños se le aplica un descuento que se añade al precio final de la compra.
 Para ejecutar el programa debes abrir elproyecto de NetBeans en tu ordenador , clicar en la parte superior izquierda en OpenProject, donde puedes buscar el archivo del programa. Una vez abierto pulsas en run project y ya puedes probarlo.
+
+Link de drive para ver el JAvaDoc:https://drive.google.com/drive/folders/1b1X0CrMxMFlSmOvc2kAEp8j512urvnIS?usp=drive_link
